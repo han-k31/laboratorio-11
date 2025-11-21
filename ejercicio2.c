@@ -1,9 +1,6 @@
 /* Girón Knepp Hanna Sofía
 laboratorio 11 ejercicio 2*/
 
-/*Alfonso Francisco De Abiega L'Eglisse
-laboratorio 11 Programa 2*/
-
 #include <stdio.h>
 
 void sumar(); // prototipo de la función
